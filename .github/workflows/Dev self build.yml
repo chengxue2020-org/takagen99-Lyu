@@ -14,11 +14,8 @@ jobs:
       fail-fast: false
       matrix:
         include:
-          - userName: chengxue2020
-            repoName: takagen99
-            branchName: main
           - userName: chengxue2020-org
-            repoName: TK123
+            repoName: takagen99-Lyu
             branchName: main
     steps:
       - name: Checkout
