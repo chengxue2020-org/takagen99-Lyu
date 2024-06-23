@@ -10,7 +10,7 @@ android {
     compileSdk 34
 
     defaultConfig {
-        applicationId 'com.github.tvbox.osc.tk.frank'
+        applicationId 'com.github.tvbox.osc.Frank'
         minSdkVersion 21
         targetSdkVersion 29
         versionCode 1
